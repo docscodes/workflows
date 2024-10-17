@@ -1,4 +1,3 @@
-#
 # Deploys the video-streaming microservice to Kubernetes
 #
 # export CONTAINER_REGISTRY=<your-container-registry>
